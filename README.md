@@ -4,7 +4,7 @@ Clones (aka "gets") all of your GitHub repos.
 
 ## Installation
 
-Clone the repo and add `bin/gethub` to your `$PATH`, or install via `pip`:
+Clone the repo and add the `bin/gethub` to your `$PATH` as well as the base directory to your `$PYTHONPATH`, or install via `pip`:
 
 ```bash
 $ pip install gethub
